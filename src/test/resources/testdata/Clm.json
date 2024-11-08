@@ -1,0 +1,33 @@
+{
+	"LeaseCoordinator" : "Lease Coordinator",
+	"CabinetApprover" : "Cabinet Approver",
+	"password" : "rules1",
+	"password1" : "rules",
+	
+	"RequestID":"REQ12345",
+	"RequestDate":"05262024",
+	"LeaseStartDate":"06012024",
+	"LeaseEndDate":"08012024",
+	"LeaseAmount":"750",
+	"CabinetDimensions":"36x24x72",
+	"AdditionalFeatures":"Lockable doors",
+	"PaymentFrequency":"Monthly",
+	"CabinetType":"Glass",
+	
+	"FirstName":"John",
+	"LastName":"Doe",
+	"Email":"johndoe@example.com",
+	"CountryCode":"+1",
+	"WrongPhoneNumber":"99999999999999",
+	"PhoneNumber":"1 (234) 567-890",
+	
+	"WorkStatus1":"New",
+	"WorkStatus2":"Pending-Approval",
+	"WorkStatus3":"Cabinet Request - In Progress",
+	
+	"AddressLine1":"123 Main St",
+	"AddressLine2":"Apt 4B",
+	"CityTown":"New York",
+	"State":"New York",
+	"PostalCode":"10001"
+}
